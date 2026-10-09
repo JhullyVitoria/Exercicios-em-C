@@ -6,7 +6,7 @@ O objetivo deste projeto é unir a **teoria** com a **prática**, servindo como 
 
 ## Estrutura do Conteúdo
 
-O repositório está organizado de forma evolutiva, acompanhando a curva de aprendizado dos alunos:
+O repositório está organizado de forma evolutiva:
 
 *   **`Var-Constantes/`**: Declaração de variáveis, tipos de dados e funções de entrada/saída (`printf` e `scanf`).
 *   **`Operadores_Aritmeticos/`**: Operações matemáticas fundamentais aplicadas ao código junto de operadores lógicos.
