@@ -1,3 +1,22 @@
+/* Exercício: Sistema de Pedidos da Lanchonete
+Objetivo: Crie um programa que exiba um cardápio interativo e permita que o usuário faça um pedido contendo múltiplos itens.
+Requisitos do Programa:
+1.	Menu de Opções: Exiba o seguinte cardápio no console:
+	1 - Hambúrguer (R$ 15,00)
+	2 - Batata Frita (R$ 8,00)
+	3 - Refrigerante (R$ 5,00)
+	0 - Finalizar Pedido
+2.	Laço de Repetição (while):
+	Mantenha o programa em loop solicitando que o usuário escolha o código de um produto até que ele digite 0.
+3.	Estrutura de Seleção (switch):
+	Use o switch para identificar o código digitado:
+	Adicione o valor correspondente ao total da conta.
+	Exiba uma mensagem confirmando o item adicionado.
+	Caso digite um código inválido, exiba a mensagem: "Opção inválida!".
+4.	Resumo Final (for):
+	Ao finalizar o pedido (opção 0), peça para o usuário definir em quantas parcelas deseja pagar (ex: de 1 a 3 vezes).
+	Utilize um laço for para calcular e exibir no console o valor exato de cada parcela.
+*/
 #include <stdio.h>
 
 int main()
